@@ -1,0 +1,5 @@
+*.pyc
+
+db.sqlte3
+
+__pycache__
