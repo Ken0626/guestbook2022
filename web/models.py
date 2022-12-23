@@ -2,7 +2,7 @@ from django.db import models
 
 # Create your models here.
 
-class Massage(models.Model):
+class Message(models.Model):
 
     user = models.CharField('姓名', max_length = 50)    
     subject = models.CharField('主旨',max_length = 200)
